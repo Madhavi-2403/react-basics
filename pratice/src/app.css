@@ -1,5 +1,7 @@
-.maincontainer{
+/* .maincontainer{
     display: flex;
-    padding:10px;
-    justify-content: center;
-} 
+    /* padding:10px;
+    justify-content: center; */
+      div{
+        display: inline;
+      }
