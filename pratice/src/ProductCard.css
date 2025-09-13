@@ -1,0 +1,26 @@
+/* .name{
+    font-size: 30px;
+    color:black;
+
+} */
+.price {
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.container {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.false {
+    color: red;
+}
+
+.true {
+    color: green;
+}

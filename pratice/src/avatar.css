@@ -1,0 +1,19 @@
+.container{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.name{
+color: brown;
+font-size: 30px;
+}
+img{
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border: 1px solid black;
+
+}
